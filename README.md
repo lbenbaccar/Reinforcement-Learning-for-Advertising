@@ -14,7 +14,7 @@ Every B2C Company needs to roll out ads to sell it's newest features to their po
 For reasons that can be explained (or not) with statistical modeling, one of the ads may be consistently better than the other. As a result, we need a quantitative method to track which ad brings more value as the advertising campaign is happening. This is clearly a Multi-Armed-Bandit Problem.
 
 ### Project goals
-This notebook will be comparing 5 strategies to adress the advertising use case.
+This notebook will be comparing 5 strategies to address the advertising use case.
 
 Each of the section has a goal :
 - Section 1 : Comparing Regret Upper Bounds
